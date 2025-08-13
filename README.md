@@ -61,6 +61,7 @@ If you find this helpful, please give us a Star!
 ### AI Coding Assistants
 
 - [GitHub Copilot](https://aitools.inc/tools/github-copilot) - Code smarter, build faster [![link]](https://github.com/features/copilot)
+- [Codeflash](https://www.codeflash.ai/) - Ship Blazing-Fast Python Code — Every Time.
 - [Cursor](https://www.cursor.com/) - Supercharge your coding workflow [![link]](https://www.cursor.com/)
 - [tabnine](https://aitools.inc/tools/tabnine) - Supercharge your coding workflow [![link]](https://www.tabnine.com/)
 - [Codeium](https://aitools.inc/tools/codeium) - Elevate your code with intelligent testing [![link]](https://codeium.com/)
